@@ -11,4 +11,9 @@ int main() {
     // tampilkan data
     cout << "Data pada index 1 = " << aku[1] << endl;
     
+    // ganti index ke 1
+    aku[1] = 200;
+    cout << endl;
+    cout << "Data pada index 1 = " << aku[1] << endl;
+
 }
