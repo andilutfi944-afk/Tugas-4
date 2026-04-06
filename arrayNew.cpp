@@ -28,4 +28,14 @@ int main() {
     cout << "Data index 4 = ";
     cin >> kamu [4];
     cout << endl;
+    cin >> kamu[4];
+    cout << endl;
+
+    // menampilkan satu persatu
+    cout << "data pertama = " << kamu[0] << endl;
+    cout << "data kedua = " << kamu[1] << endl;
+    cout << "data ketiga = " << kamu[2] << endl;
+    cout << "data keempat = " << kamu[3] << endl;
+    cout << "data kelima = " << kamu[4] << endl;
+    cout << endl;
 }
